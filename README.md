@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justus Amuche Nweze
-- 👀 I’m interested in amplicon and metagenome analysis
+- 👀 I’m interested in analyses of amplicon, whole genome, metagenome, (meta)transcriptome datasets.
 - 🌱 I’m currently analysing metagenome data from peat soils and Iceland soils close to hotsprings.
 - 💞️ I’m looking to collaborate on improving metagenome scripts.
 - 📫 You can email me : nwezejustus@gmail.com or justus.nweze@unn.edu.ng
